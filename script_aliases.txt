@@ -1,3 +1,4 @@
-These are all the aliases for the scripts:
+These are all the aliases I use for the scripts:
 
-len = getLength.sh
+len = get_length.sh
+lc = leetcode_search.sh
