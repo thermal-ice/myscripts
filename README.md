@@ -16,6 +16,6 @@ e.g) alias len="/Users/carloshuang/my_scripts/getLength.sh"
 
 Also need to add permissions to it via:
 
-chmod +x /Users/carloshuang/my_scripts/getLength.sh
+`chmod +x /Users/carloshuang/my_scripts/getLength.sh`
 
-The +x flag gives the script execution permissions
+The `+x` flag gives the script execution permissions
